@@ -1,0 +1,5 @@
+{
+  "name": "Medication Reminder App",
+  "description": "A comprehensive medication tracking and compliance application featuring user authentication, schedule management, adherence tracking, and analytics reports.",
+  "requestFramePermissions": []
+}
